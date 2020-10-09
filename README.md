@@ -9,6 +9,8 @@ ccc - 3rd part of rgb color code
 
 This code is also available through repl.it if anyone would like to try it directly. Link: https://repl.it/@sa3724/Question9-Lab3#main.py
 
+Link to Lab file: https://www.cs.drexel.edu/~src322/cs164/labs/numberslab.html
+
 Question:
 We're going to manipulate the binary numbers that describe the colors. The numbers are generally taken to be unsigned, but just for fun, we're going to treat them as signed numbers. Then after negating them, we'll treat the resulting bit patterns as unsigned numbers and display the resulting colors.
 
