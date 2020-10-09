@@ -21,4 +21,4 @@ Let's do the same thing with one's complement! 11111111 would become 00000000 wh
 Finally, let's do this all again with two's complement. 11111111 will become 00000001 which is 1. 00000000 will become 00000000 which is 0. Negative red in two's complement is now (1,0,0). I made a table below of the colors.
 
                                    | Unsigned | Sign Magnitude | One's Complement | Two's Complement|
-                                   |  255,0,0 |   127,128,128	|    0,255,255	   |      1,0,0     |
+                                   |  255,0,0 |   127,128,128  |    0,255,255     |      1,0,0      |
