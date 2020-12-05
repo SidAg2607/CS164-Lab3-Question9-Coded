@@ -1,11 +1,13 @@
 # CS164-Lab3-Question9-Coded
 This code works on the algorithm in the question 9 of Lab 3 of CS164 course.
 
-For this code:
-rgb(aaa, bbb, ccc)
-aaa - 1st part of rgb color code
-bbb - 2nd part of rgb color code
-ccc - 3rd part of rgb color code
+For this code:  rgb(aaa, bbb, ccc)
+
+           aaa - 1st part of rgb color code
+
+           bbb - 2nd part of rgb color code
+
+           ccc - 3rd part of rgb color code
 
 This code is also available through repl.it if anyone would like to try it directly. Link: https://repl.it/@sa3724/Question9-Lab3#main.py
 
